@@ -9,8 +9,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/reubenhutcherson/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/reubenhutcherson/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine on Azure](https://github.com/reubenhutcherson/azurevirtualmachine)
   - [Configuring Active Directory within Azure VMs](https://github.com/reubenhutcherson/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/reubenhutcherson/azure-network-protocols)
+  
 
 <h2>Connect with me:</h2>
 
