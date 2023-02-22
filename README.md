@@ -7,7 +7,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/reubenhutcherson/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/reubenhutcherson/osTicket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/reubenhutcherson/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/reubenhutcherson/reubenhutcherson/osTicket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/reubenhutcherson/azurevirtualmachine)
   - [Configuring Active Directory within Azure VMs](https://github.com/reubenhutcherson/configure-activedirectory)
